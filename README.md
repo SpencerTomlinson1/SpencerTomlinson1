@@ -1,4 +1,4 @@
-Hi I am Spencer. I am curretnly a senior at Florida State University in Tallahassee, FL studying Management Information Systems
+Hi I am Spencer. I am currently a senior at Florida State University in Tallahassee, FL studying Management Information Systems
 I am interested in becoming a business/data analyst 
 I am curretnly learning python, SQL, and using python for data analysis
 Here is my LinkedIn!
